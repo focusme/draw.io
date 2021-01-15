@@ -1,154 +1,154 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T09:00:58.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ZQ1DZkZCqDtI3FP-6BuG" version="14.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-15T09:01:29.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="q9nK36UpMUfNf29c3izW" version="14.2.3" type="github" pages="2">
   <diagram id="vwP_-DTR7MAqxdlJQT_1" name="设计总图">
     <mxGraphModel dx="1422" dy="737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-1" value="Container management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-1" value="Container management" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="70" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-2" value="Cluster manage system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-2" value="Cluster manage system" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="70" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-3" value="Application &amp;amp; monitor system" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-3" value="Application &amp;amp; monitor system" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="480" y="70" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="120" width="660" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="130" width="150" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-6" value="K8s manage board" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-6" value="K8s manage board" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="80" y="140" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-7" value="k8s manage tools" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-7" value="k8s manage tools" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="80" y="220" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="130" width="220" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-9" value="K8s master nodes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-9" value="K8s master nodes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="140" width="110" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-10" value="DNS UI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-10" value="DNS UI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="250" y="160" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-11" value="Kube api server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-11" value="Kube api server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="250" y="190" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="220" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-13" value="scheduler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-13" value="scheduler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="260" y="230" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-14" value="Controller manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-14" value="Controller manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="330" y="230" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-16" value="etcd" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-16" value="etcd" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="400" y="225" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="130" width="230" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-18" value="Worker nodes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-18" value="Worker nodes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="135" width="80" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-19" value="Trading data collection plateform bussiness pods" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-19" value="Trading data collection plateform bussiness pods" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="490" y="160" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-20" value="Redis pods" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-20" value="Redis pods" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="490" y="235" width="60" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-21" value="Kafka pods" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-21" value="Kafka pods" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="570" y="235" width="60" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-22" value="Kubelet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-22" value="Kubelet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="647.5" y="160" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-23" value="kube proxy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-23" value="kube proxy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="647.5" y="232.5" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-24" value="Warehouse &amp;amp; Application System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-24" value="Warehouse &amp;amp; Application System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="60" y="360" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-26" value="Cloud computing plateform" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-26" value="Cloud computing plateform" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="410" y="360" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="400" width="340" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-28" value="Cloud stack" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-28" value="Cloud stack" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="70" width="40" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-29" value="Cloud computing" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;horizontal=0;verticalAlign=top;labelBackgroundColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-29" value="Cloud computing" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;horizontal=0;verticalAlign=top;labelBackgroundColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="730" y="360" width="40" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="400" width="310" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-33" value="IceBerg &amp;amp;&amp;amp; flat Files service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-33" value="IceBerg &amp;amp;&amp;amp; flat Files service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="80" y="410" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-34" value="Data mining service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-34" value="Data mining service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="80" y="460" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-35" value="Data mart service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-35" value="Data mart service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="510" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-36" value="Data open service &amp;amp; Decision support service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-36" value="Data open service &amp;amp; Decision support service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="80" y="560" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-38" value="Data mart service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-38" value="Data mart service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="80" y="510" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-39" value="Flink service&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-39" value="Flink service&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="420" y="410" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-40" value="Computing service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-40" value="Computing service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="560" y="410" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-41" value="Kafka service&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-41" value="Kafka service&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="420" y="460" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-42" value="spark service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-42" value="spark service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="560" y="460" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="510" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-44" value="Cloud computing support technology plateform" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-44" value="Cloud computing support technology plateform" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="480" y="520" width="160" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-47" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Management console&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-47" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Management console&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="640" y="540" width="65" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-48" value="Data catalog&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-48" value="Data catalog&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="560" y="540" width="65" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-49" value="Cloud stack" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;horizontal=0;verticalAlign=top;labelBackgroundColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-49" value="Cloud stack" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;horizontal=0;verticalAlign=top;labelBackgroundColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="730" y="70" width="40" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-50" value="Workload manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-50" value="Workload manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="425" y="540" width="55" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-51" value="Replication manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-51" value="Replication manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="490" y="540" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-52" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;quot;arial&amp;quot; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;Security Software Bus&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-52" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;quot;arial&amp;quot; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;Security Software Bus&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="60" y="320" width="710" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T1ruw4xrSdFbfqqsGpTt-1" value="Container management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T1ruw4xrSdFbfqqsGpTt-1" value="Container management" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="70" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T1ruw4xrSdFbfqqsGpTt-2" value="Cluster manage system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T1ruw4xrSdFbfqqsGpTt-2" value="Cluster manage system" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="70" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T1ruw4xrSdFbfqqsGpTt-3" value="Container management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="T1ruw4xrSdFbfqqsGpTt-3" value="Container management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="60" y="70" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T1ruw4xrSdFbfqqsGpTt-4" value="Cluster manage system" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="T1ruw4xrSdFbfqqsGpTt-4" value="Cluster manage system" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="240" y="70" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
