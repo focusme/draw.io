@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T03:32:29.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="clMbRMSiIgdbAc2ot8EN" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-15T06:05:51.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="wb2mHACvmhvP0YTA929F" version="14.2.3" type="github">
   <diagram id="vwP_-DTR7MAqxdlJQT_1" name="Page-1">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -79,10 +79,10 @@
         <mxCell id="_6BHQa5oYMVgRDcNUVSC-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="370" width="340" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-28" value="Cloud stack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-28" value="Cloud stack" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="70" width="40" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-29" value="Cloud computing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-29" value="Cloud computing" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;horizontal=0;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="730" y="330" width="40" height="250" as="geometry" />
         </mxCell>
         <mxCell id="_6BHQa5oYMVgRDcNUVSC-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -99,9 +99,6 @@
         </mxCell>
         <mxCell id="_6BHQa5oYMVgRDcNUVSC-36" value="Data open service &amp;amp; Decision support service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="530" width="310" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-37" value="Data open service &amp;amp; Decision support service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="530" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_6BHQa5oYMVgRDcNUVSC-38" value="Data mart service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="480" width="310" height="40" as="geometry" />
@@ -124,14 +121,20 @@
         <mxCell id="_6BHQa5oYMVgRDcNUVSC-44" value="Cloud computing support technology plateform" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="490" width="160" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-46" value="Workload manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="510" width="75" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-47" value="Replication manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="510" width="75" height="50" as="geometry" />
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-47" value="Management console" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="510" width="65" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_6BHQa5oYMVgRDcNUVSC-48" value="Data catalog&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="510" width="75" height="50" as="geometry" />
+          <mxGeometry x="560" y="510" width="65" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-49" value="Cloud stack" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;horizontal=0;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="730" y="70" width="40" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-50" value="Workload manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="510" width="55" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-51" value="Replication manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="510" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
