@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T07:40:48.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="qTLOGe9IknOlw-vBLAue" version="14.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-15T07:41:10.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="gPwKPDvE38Jqht2nRD4x" version="14.2.3" type="github" pages="2">
   <diagram id="vwP_-DTR7MAqxdlJQT_1" name="设计总图">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -242,7 +242,7 @@
         <mxCell id="tbrPiaNP1wlRm2xz_KhW-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FF0000;strokeColor=#000000;fontSize=8;fontColor=#000000;" edge="1" parent="tbrPiaNP1wlRm2xz_KhW-1" source="tbrPiaNP1wlRm2xz_KhW-49" target="tbrPiaNP1wlRm2xz_KhW-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tbrPiaNP1wlRm2xz_KhW-49" value="NPM manage server console" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#E6E6E6;fontSize=8;" vertex="1" parent="tbrPiaNP1wlRm2xz_KhW-1">
+        <mxCell id="tbrPiaNP1wlRm2xz_KhW-49" value="NPM manage server console" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=8;fillColor=#67AB9F;" vertex="1" parent="tbrPiaNP1wlRm2xz_KhW-1">
           <mxGeometry x="397.5" y="145" width="110" height="25" as="geometry" />
         </mxCell>
         <mxCell id="tbrPiaNP1wlRm2xz_KhW-50" value="NPM probe server1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#67AB9F;fontSize=8;" vertex="1" parent="tbrPiaNP1wlRm2xz_KhW-1">
