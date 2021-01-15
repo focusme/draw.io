@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T15:46:26.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="CZF1l4qpa3TVun6FVSfb" version="14.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-15T15:53:58.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="qx41SYr-dpUmV8eS9K4F" version="14.2.3" type="github" pages="2">
   <diagram id="vwP_-DTR7MAqxdlJQT_1" name="设计总图">
     <mxGraphModel dx="948" dy="529" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -19,10 +19,10 @@
         <mxCell id="_6BHQa5oYMVgRDcNUVSC-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="130" width="150" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-6" value="K8s manage board" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-6" value="K8s manage board" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="80" y="140" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-7" value="k8s manage tools" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-7" value="k8s manage tools" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="80" y="220" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_6BHQa5oYMVgRDcNUVSC-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -136,7 +136,7 @@
         <mxCell id="_6BHQa5oYMVgRDcNUVSC-51" value="Replication manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="488" y="496" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-52" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;quot;arial&amp;quot; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;Security Software Bus&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-52" value="&lt;span style=&quot;font-family: arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Security Software Bus&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#6F0000;fillColor=#a20025;fontStyle=1;horizontal=0;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="24" y="70" width="30" height="496" as="geometry" />
         </mxCell>
         <mxCell id="T1ruw4xrSdFbfqqsGpTt-1" value="Container management" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
