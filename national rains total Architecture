@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T09:06:27.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="-RbSisZ1F7tYTOsGy-WE" version="14.2.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-19T11:06:40.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="0nuZDV-vAuxNeig3J5ka" version="14.2.4" type="github" pages="3">
   <diagram id="vwP_-DTR7MAqxdlJQT_1" name="设计总图">
-    <mxGraphModel dx="782" dy="468" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,13 +40,13 @@
         <mxCell id="_6BHQa5oYMVgRDcNUVSC-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="220" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-13" value="scheduler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-13" value="Scheduler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="260" y="230" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_6BHQa5oYMVgRDcNUVSC-14" value="Controller manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="330" y="230" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-16" value="etcd" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-16" value="Etcd" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="400" y="225" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_6BHQa5oYMVgRDcNUVSC-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -67,7 +67,7 @@
         <mxCell id="_6BHQa5oYMVgRDcNUVSC-22" value="Kubelet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="647.5" y="160" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-23" value="kube proxy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-23" value="Kube proxy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="647.5" y="232.5" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_6BHQa5oYMVgRDcNUVSC-24" value="Warehouse &amp;amp; Application System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
@@ -112,7 +112,7 @@
         <mxCell id="_6BHQa5oYMVgRDcNUVSC-41" value="Kafka service&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="418" y="416" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6BHQa5oYMVgRDcNUVSC-42" value="spark service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="_6BHQa5oYMVgRDcNUVSC-42" value="Spark service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="558" y="416" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_6BHQa5oYMVgRDcNUVSC-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
